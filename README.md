@@ -8,10 +8,13 @@ The program makes use of two loops: one with ints to maximize speed for the firs
 
 ## CONTROLS
 
-ENTER (At Start) - Begin Generating
-ENTER (While Running) - Pause Generator
-ENTER (While Paused) - Resume Generator
-S+ENTER - Save All Generated Primes to "Primes.txt" in the Source Files (ONLY WHILE PAUSED, Takes Longer the Larger the List)
+-ENTER (At Start) - Begin Generating
+
+-ENTER (While Running) - Pause Generator
+
+-ENTER (While Paused) - Resume Generator
+
+-S+ENTER - Save All Generated Primes to "Primes.txt" in the Source Files (ONLY WHILE PAUSED, Takes Longer the Larger the List)
 
 ## Running
 
